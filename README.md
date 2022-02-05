@@ -1,8 +1,10 @@
 ### Hi there 👋
-I am an Aerospace Engineer specializing in Flight Control Systems and Flight Physics with exposure to Software and Product development
+I am an Aerospace Engineer specializing in autonomous systems with exposure to Software and Product development
 
   Interests: 
-- Flight Control Laws and Autonomous Flight
+- Autonomous systems development
+- Real time simulations
+- Flight Control Laws
 - Model Based Systems Development
 - Modelling and Simulation
 
